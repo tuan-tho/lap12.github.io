@@ -1,0 +1,52 @@
+.header{
+    width: 100%;
+    height: 130pt;
+ background-color: aquamarine;
+    margin: -6pt 0pt 0pt -6pt;
+    padding: 0pt 6pt;   
+    display: flex;
+}
+.fb-icon{
+    margin-left: 150px;
+    margin-top: .5rem;
+}
+.ig-icon{
+    margin-left: 15px;
+    margin-top:.5rem ;
+}
+.pn-icon{
+    margin-left: 15px;
+    margin-top: .5rem;
+}
+.img{
+    max-width: 150px;
+    height: auto;
+    margin-left: 300pt;
+    margin-top: 6pt;
+}
+.gm-icon{
+    margin-left: 300pt;
+    margin-top: .5rem;
+}
+.tw-icon{
+    margin-left: 350pt;
+    margin-top: .5rem;
+}
+.ing{
+    max-width: 150px;
+    height: auto;
+
+}
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(174, 233, 122);
+    color: white;
+    
+  }
+.content{
+    display:flex ;
+    align-items: center;}
+.abc{
+    background-color: blanchedalmond;
+}
